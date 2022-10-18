@@ -1,0 +1,27 @@
+{
+  "name": "tech-blog_zf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakfoxx/tech-blog_ZF.git"
+  },
+  "author": "Zechariah Foxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakfoxx/tech-blog_ZF/issues"
+  },
+  "homepage": "https://github.com/zakfoxx/tech-blog_ZF#readme",
+  "dependencies": {
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "mysql2": "^2.3.3"
+  }
+}
